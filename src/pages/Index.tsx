@@ -6,6 +6,7 @@ import HowItWorks from "@/components/HowItWorks";
 import Services from "@/components/Services";
 import Pricing from "@/components/Pricing";
 import SocialProof from "@/components/SocialProof";
+import AboutUs from "@/components/AboutUs";
 import FAQ from "@/components/FAQ";
 import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
@@ -23,6 +24,7 @@ const Index = () => {
         <Services />
         <Pricing />
         <SocialProof />
+        <AboutUs />
         <FAQ />
         <CTASection />
       </main>

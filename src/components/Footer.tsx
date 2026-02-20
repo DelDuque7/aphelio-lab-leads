@@ -27,7 +27,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <MapPin size={16} className="text-primary" />
-                <span>[Cidade / Região de atuação]</span>
+                <span>Varginha — MG</span>
               </li>
             </ul>
           </div>
